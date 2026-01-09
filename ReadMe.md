@@ -12,3 +12,5 @@
 使用示例
 keep_alive notepad.exe
 keep_alive notepad.exe 123.txt
+
+如果要结束保活，需要使用任务管理器，寻找 keep_alive.exe 的程序，强行结束掉
